@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Jokes</title>
+    <link href="/css/custom.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="container mt-2">
+      <div class="row weather-row mb-5">
+        <div class="col-md-3 text-center">
+          <div id="weather-card" class="card">
+            <div class="card-body text-center">
+              <p id="weather-location" class="font-weight-bold mb-0 mt-0"></p>
+              <p id="weather-string" class="h4 mb-0"></p>
+              <p id="weather-description" class="text-capitalize mb-0"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="row justify-content-center joke-row">
+        <div class="col-md-12">
+          <div class="card">
+            <div class="card-header">
+              <h1 class="text-center">Cheesy Jokes</h1>
+            </div>
+            <div class="card-body text-center">
+              <pre id="joke" class="text-wrap"></pre>
+                <div class="mt-4">
+                  <button id="badJokeButton" type="button" class="btn btn-danger m-lg-3 fs-1 btn-pulse selected" data-bs-toggle="tooltip" title="Bad Joke!"> 😑 </button>
+                  <button id="regularJokeButton" type="button" class="btn btn-warning m-lg-3 fs-1 btn-pulse selected" data-bs-toggle="tooltip" title="Regular Joke!"> 😅 </button>
+                  <button id="goodJokeButton" type="button" class="btn btn-success m-lg-3 fs-1 btn-pulse selected" data-bs-toggle="tooltip" title="Good Joke!"> 😆 </button>
+                </div>
+                <div class="text-center mt-4">
+                  <button id="nextJokeButton" type="button" class="btn btn-primary fs-4">Next Joke</button>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <script src="index.js"></script>
+  </body>
+  
+</html>
