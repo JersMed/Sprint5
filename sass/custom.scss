@@ -1,17 +1,17 @@
 
 .btn-danger:active {
   animation-name: pulse;
-  animation-duration: 1.5s;
+  animation-duration: 0.5s;
 }
 
 .btn-warning:active {
   animation-name: pulse;
-  animation-duration: 1.5s;
+  animation-duration: 0.5s;
 }
 
 .btn-success:active {
   animation-name: pulse;
-  animation-duration: 1.5s;
+  animation-duration: 0.5;
 }
 @keyframes pulse {
   from {
@@ -23,14 +23,14 @@
 }
 
 .btn-warning:focus {
-  box-shadow: 0 0 20px #5e5903;
+  box-shadow: 0 0 40px #744e02;
 }
 
 .btn-danger:focus {
-  box-shadow: 0 0 20px #7f6803;
+  box-shadow: 0 0 40px #8a7102;
 }
 
 .btn-success:focus {
-  box-shadow: 0 0 20px #0f7f03;
+  box-shadow: 0 0 40px #0f7f03;
 }
 @import "../node_modules/bootstrap/scss/bootstrap";

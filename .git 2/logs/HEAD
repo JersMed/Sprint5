@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 c908d51c7acd939c51e08610931adb8b18b4a0dc JersMed <jersmed@gmail.com> 1679563538 +0100	commit (initial): API consumida y estilos agregados
+c908d51c7acd939c51e08610931adb8b18b4a0dc 0000000000000000000000000000000000000000 JersMed <jersmed@gmail.com> 1679563757 +0100	Branch: renamed refs/heads/main to refs/heads/main
+c908d51c7acd939c51e08610931adb8b18b4a0dc c908d51c7acd939c51e08610931adb8b18b4a0dc JersMed <jersmed@gmail.com> 1679563757 +0100	Branch: renamed refs/heads/main to refs/heads/main
+c908d51c7acd939c51e08610931adb8b18b4a0dc 3fc8957852c5ef43c7e93136726c098b8d54070b JersMed <jersmed@gmail.com> 1679563821 +0100	commit: gitignore added
+3fc8957852c5ef43c7e93136726c098b8d54070b 880ae94471c60fbfc7a9b7ed9631c5b29f6929ad JersMed <jersmed@gmail.com> 1679658275 +0100	commit: Mejorando estilos
+880ae94471c60fbfc7a9b7ed9631c5b29f6929ad bfa0c99d3af033afc7789424f7f8d88dbeeb2ada JersMed <jersmed@gmail.com> 1679658772 +0100	pull --tags origin main (start): checkout bfa0c99d3af033afc7789424f7f8d88dbeeb2ada
+bfa0c99d3af033afc7789424f7f8d88dbeeb2ada 880ae94471c60fbfc7a9b7ed9631c5b29f6929ad JersMed <jersmed@gmail.com> 1679659318 +0100	rebase (abort): returning to refs/heads/main
+880ae94471c60fbfc7a9b7ed9631c5b29f6929ad 880ae94471c60fbfc7a9b7ed9631c5b29f6929ad JersMed <jersmed@gmail.com> 1679660398 +0100	checkout: moving from main to main
+880ae94471c60fbfc7a9b7ed9631c5b29f6929ad bfa0c99d3af033afc7789424f7f8d88dbeeb2ada JersMed <jersmed@gmail.com> 1679660408 +0100	pull --rebase origin (start): checkout bfa0c99d3af033afc7789424f7f8d88dbeeb2ada
+bfa0c99d3af033afc7789424f7f8d88dbeeb2ada 880ae94471c60fbfc7a9b7ed9631c5b29f6929ad JersMed <jersmed@gmail.com> 1679784026 +0100	rebase (abort): returning to refs/heads/main
+880ae94471c60fbfc7a9b7ed9631c5b29f6929ad d83684f34891bea0d4b57132019ab32cb35fc0c8 JersMed <jersmed@gmail.com> 1679785309 +0100	commit: Listo para entrega
